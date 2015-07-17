@@ -1,0 +1,28 @@
+{
+  "name": "ioApp",
+  "version": "1.0.0",
+  "description": "Node io sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iboumedien/ioApp.git"
+  },
+  "keywords": [
+    "io",
+    "js",
+    "express",
+    "node"
+  ],
+  "author": "iboumedien@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iboumedien/ioApp/issues"
+  },
+  "homepage": "https://github.com/iboumedien/ioApp",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
